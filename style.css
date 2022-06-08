@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    background: url(./railway-station-1363771_1920.jpg) center/cover no-repeat fixed;
+}
+
+header {
+    color:aliceblue;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 120px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.big-container {
+    min-height: 3000px;
+    background-color: rgba(240, 248, 255, 0.432);
+    width: 70%;
+    margin: auto;
+    border-radius: 26px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    width: 70%;
+    height: 300px;
+    background-color: transparent;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border-radius: 30px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+
+button {
+    background-color: transparent;
+    color: #becce4;
+    cursor: pointer;
+    width: 50%;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 30px;
+    border: transparent;
+    font-size: 1.1rem;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: rgba(58, 43, 43, 0.822);
+    color: white;
+}
+
+
