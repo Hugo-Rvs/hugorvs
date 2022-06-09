@@ -94,5 +94,12 @@ button:hover {
         min-height: 220px;
         min-width: 180px;
     }
+    .big-container {
+        width: 100%;
+        min-height: 5000px;
+    }
+    header {
+        font-size: 2rem;
+    }
 }
 
