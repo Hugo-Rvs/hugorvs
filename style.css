@@ -24,7 +24,7 @@ h1 {
 }
 
 .big-container {
-    min-height: 3000px;
+    min-height: 5500px;
     background-color: rgba(240, 248, 255, 0.432);
     width: 70%;
     margin: auto;
@@ -79,6 +79,129 @@ button:hover {
     color: white;
 }
 
+.bravo1 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo2 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo3 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo4 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo5 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo6 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo7 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo8 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo9 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo10 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.bravo11 {
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(42 56 68 / 75%);
+    background-color: #ffffffab;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+
+
 @media screen and (max-width: 800px) {
     .container {
         display: flex;
@@ -93,6 +216,7 @@ button:hover {
     .images {
         min-height: 220px;
         min-width: 180px;
+        margin-bottom: 20px;
     }
     .big-container {
         width: 100%;
