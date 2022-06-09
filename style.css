@@ -79,4 +79,20 @@ button:hover {
     color: white;
 }
 
+@media screen and (max-width: 800px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    .text {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .images {
+        min-height: 220px;
+        min-width: 180px;
+    }
+}
 
